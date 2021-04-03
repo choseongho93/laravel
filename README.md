@@ -1,2 +1,2 @@
 # laravel
-Laravel Framework 
+Laravel Default Framework 
